@@ -3,3 +3,4 @@ demo
 beibei
 key=ali
 key=wechat
+key=no password
