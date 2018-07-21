@@ -2,3 +2,4 @@ hello
 demo
 beibei
 key=ali
+key=wechat
